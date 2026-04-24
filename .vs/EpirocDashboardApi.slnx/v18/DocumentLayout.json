@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|c:\\annie cv\\coding questions\\codingexerciseprojects\\epiroc\\epirocdashboardapi\\epirocdashboardapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|solutionrelative:epirocdashboardapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|c:\\annie cv\\coding questions\\codingexerciseprojects\\epiroc\\epirocdashboardapi\\epirocdashboardapi\\services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|solutionrelative:epirocdashboardapi\\services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|c:\\annie cv\\coding questions\\codingexerciseprojects\\epiroc\\epirocdashboardapi\\epirocdashboardapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|solutionrelative:epirocdashboardapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|c:\\annie cv\\coding questions\\codingexerciseprojects\\epiroc\\epirocdashboardapi\\epirocdashboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|solutionrelative:epirocdashboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|c:\\annie cv\\coding questions\\codingexerciseprojects\\epiroc\\epirocdashboardapi\\epirocdashboardapi\\models\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|solutionrelative:epirocdashboardapi\\models\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|c:\\annie cv\\coding questions\\codingexerciseprojects\\epiroc\\epirocdashboardapi\\epirocdashboardapi\\data\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|solutionrelative:epirocdashboardapi\\data\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|c:\\annie cv\\coding questions\\codingexerciseprojects\\epiroc\\epirocdashboardapi\\epirocdashboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|solutionrelative:epirocdashboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|c:\\annie cv\\coding questions\\codingexerciseprojects\\epiroc\\epirocdashboardapi\\epirocdashboardapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27D6657E-F7BF-7B02-8D55-C73C1C81CCE3}|EpirocDashboardApi\\EpirocDashboardApi.csproj|solutionrelative:epirocdashboardapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EpirocDashboardApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EpirocDashboardApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T16:57:59.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimulationService.cs",
+              "DocumentMoniker": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\Services\\SimulationService.cs",
+              "RelativeDocumentMoniker": "EpirocDashboardApi\\Services\\SimulationService.cs",
+              "ToolTip": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\Services\\SimulationService.cs",
+              "RelativeToolTip": "EpirocDashboardApi\\Services\\SimulationService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T22:59:20.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EpirocDashboardApi\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "EpirocDashboardApi\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:46:34.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MongoContext.cs",
+              "DocumentMoniker": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\Data\\MongoContext.cs",
+              "RelativeDocumentMoniker": "EpirocDashboardApi\\Data\\MongoContext.cs",
+              "ToolTip": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\Data\\MongoContext.cs",
+              "RelativeToolTip": "EpirocDashboardApi\\Data\\MongoContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:44:44.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\Models\\Dashboard.cs",
+              "RelativeDocumentMoniker": "EpirocDashboardApi\\Models\\Dashboard.cs",
+              "ToolTip": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\Models\\Dashboard.cs",
+              "RelativeToolTip": "EpirocDashboardApi\\Models\\Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:42:11.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EpirocDashboardApi\\appsettings.json",
+              "ToolTip": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\appsettings.json",
+              "RelativeToolTip": "EpirocDashboardApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T19:45:01.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EpirocDashboardApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\appsettings.Development.json",
+              "RelativeToolTip": "EpirocDashboardApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T19:44:59.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\Program.cs",
+              "RelativeDocumentMoniker": "EpirocDashboardApi\\Program.cs",
+              "ToolTip": "C:\\Annie CV\\Coding Questions\\CodingExerciseProjects\\Epiroc\\EpirocDashboardApi\\EpirocDashboardApi\\Program.cs",
+              "RelativeToolTip": "EpirocDashboardApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:31:01.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

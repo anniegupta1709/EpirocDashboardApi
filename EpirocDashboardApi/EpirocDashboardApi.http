@@ -1,0 +1,6 @@
+@EpirocDashboardApi_HostAddress = http://localhost:5095
+
+GET {{EpirocDashboardApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
