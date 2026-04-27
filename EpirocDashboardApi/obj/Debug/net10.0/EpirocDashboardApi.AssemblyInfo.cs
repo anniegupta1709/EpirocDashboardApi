@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EpirocDashboardApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abb48a84f0f98dd29ca2d61020180cd06a88ef0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a8d5f39fe913b71dc0e2d7c2ce37fea5f3de335")]
 [assembly: System.Reflection.AssemblyProductAttribute("EpirocDashboardApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EpirocDashboardApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
