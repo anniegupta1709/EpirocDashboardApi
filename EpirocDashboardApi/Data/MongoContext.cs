@@ -9,9 +9,19 @@ namespace EpirocDashboardApi.Data
 
         public MongoContext(IConfiguration config)
         {
-            var client = new MongoClient(config.GetConnectionString("MongoDB"));
+            var connectionString =
+                Environment.GetEnvironmentVariable("MONGO_CONNECTION_STRING")
+                ?? config.GetConnectionString("MongoDB");
+
+            if (string.IsNullOrEmpty(connectionString))
+            {
+                throw new Exception("MongoDB connection string is missing");
+            }
+
+            var client = new MongoClient(connectionString);
             _db = client.GetDatabase("epirocDB");
         }
+
 
         public IMongoCollection<Dashboard> Dashboard =>
             _db.GetCollection<Dashboard>("dashboard");
