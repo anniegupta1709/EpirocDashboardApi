@@ -134,7 +134,7 @@ dotnet run
 ## Environment Variables
 
 ```env
-MONGO_CONNECTION_STRING= 'connectuion strig from Mongo db atlas which is passed in render environment variables'
+MONGO_CONNECTION_STRING= 'connection strig from Mongo db atlas which is passed in render environment variables'
 ```
 ---
 
