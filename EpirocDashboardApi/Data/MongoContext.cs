@@ -9,9 +9,7 @@ namespace EpirocDashboardApi.Data
 
         public MongoContext(IConfiguration config)
         {
-            var connectionString =
-                Environment.GetEnvironmentVariable("MONGO_CONNECTION_STRING")
-                ?? config.GetConnectionString("MongoDB");
+            var connectionString = Environment.GetEnvironmentVariable("MONGO_CONNECTION_STRING");
 
             if (string.IsNullOrEmpty(connectionString))
             {
