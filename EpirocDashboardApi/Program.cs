@@ -11,8 +11,6 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<MongoContext>();
 builder.Services.AddHostedService<SimulationService>();
 
-builder.Services.AddControllers();
-
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll",
@@ -32,10 +30,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run();
+// REQUIRED for Render
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+app.Run($"http://0.0.0.0:{port}");

@@ -40,3 +40,5 @@ C:\Annie CV\Coding Questions\CodingExerciseProjects\Epiroc\EpirocDashboardApi\Ep
 C:\Annie CV\Coding Questions\CodingExerciseProjects\Epiroc\EpirocDashboardApi\EpirocDashboardApi\bin\Debug\net10.0\SharpCompress.dll
 C:\Annie CV\Coding Questions\CodingExerciseProjects\Epiroc\EpirocDashboardApi\EpirocDashboardApi\bin\Debug\net10.0\Snappier.dll
 C:\Annie CV\Coding Questions\CodingExerciseProjects\Epiroc\EpirocDashboardApi\EpirocDashboardApi\bin\Debug\net10.0\ZstdSharp.dll
+C:\Annie CV\Coding Questions\CodingExerciseProjects\Epiroc\EpirocDashboardApi\EpirocDashboardApi\obj\Debug\net10.0\EpirocDashboardApi.sourcelink.json
+C:\Annie CV\Coding Questions\CodingExerciseProjects\Epiroc\EpirocDashboardApi\EpirocDashboardApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
